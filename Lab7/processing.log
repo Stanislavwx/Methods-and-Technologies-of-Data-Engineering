@@ -1,0 +1,33 @@
+Period 1
+File: transactions_period_1.csv
+Date range: 2010-12-01 08:34:00 - 2011-04-04 16:36:00
+Transactions processed: 13752
+Customers in batch: 1917
+New customers: 1917
+Updated customers: 0
+Customers after processing: 1917
+Execution time: 2026-11-09 12:44:30
+Status: SUCCESS
+--------------------------------------------------
+Period 2
+File: transactions_period_2.csv
+Date range: 2011-04-05 08:25:00 - 2011-08-05 17:43:00
+Transactions processed: 15688
+Customers in batch: 2094
+New customers: 957
+Updated customers: 1137
+Customers after processing: 2874
+Execution time: 2026-11-09 12:44:30
+Status: SUCCESS
+--------------------------------------------------
+Period 3
+File: transactions_period_3.csv
+Date range: 2011-08-07 10:24:00 - 2011-12-09 12:50:00
+Transactions processed: 27286
+Customers in batch: 2844
+New customers: 1118
+Updated customers: 1726
+Customers after processing: 3992
+Execution time: 2026-11-09 12:44:30
+Status: SUCCESS
+--------------------------------------------------
